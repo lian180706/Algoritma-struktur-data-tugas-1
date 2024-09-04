@@ -1,0 +1,22 @@
+Insiasi 1.mulai.
+        2.masukkan data masuk mahasiswa(thn
+        2024 april)dan thn dan bulan saat ini
+        (thn 2024 agustus).
+Proses 3.hitunglah selisih thn dan bln saat 
+      ini(2024 april) dan thn masuk(2024 agu-
+      stus)selisih thn dan bulan=2024 agustus
+      _2024 april).
+       4.hitunglah semester.
+       5.jika selisih thn dan bln lebih dari
+       adalah "0".
+       6.jika selisih thn dan bln adlh genap,
+       semester adlh (selisih thn dikali*2)
+       di tambah +1 ( semester ganjil).
+       7.jika selisih thn adlh ganjil,semester
+       adlh (selisih thn dikali*2) di tambah+2
+       (semester genap ).
+       8.jika tidak keluaran thn ini tidak 
+       valid atau tidak sinkron.
+Output 9.keluarkan hasil semester genap dan
+       ganjil.
+       10.selesai.
