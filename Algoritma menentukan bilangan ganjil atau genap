@@ -1,0 +1,11 @@
+Insiasi 1.mulai.
+        2.masukkan bilangan.
+Proses  3.hitunglah sisa bagi bilangan 
+         dengan 2 ( bilangan di bagi 2 ).
+        4.jika sisa bagi dari bilangan adalah
+         "0" maka "bilangan genap".
+        5.jika tidak sisanya "0"maka"bilangan
+          ganjil"
+Output  6.tampilkan bilangan yang sudah di
+          tentukan.
+        7.selesai
